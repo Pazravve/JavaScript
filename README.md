@@ -17,4 +17,4 @@ Estas son mis practicas de JavaScript.
 
 
 ##  Github Pages!
-- [Click aquí si deseas ir a la página!](https://pazravve.github.io/JavaScriptPractice/)
+- [Click aquí si deseas ir a la página!](https://pazravve.github.io/JavaScript/)
