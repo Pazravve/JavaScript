@@ -1,4 +1,5 @@
 alert("Bienvenido a nuestra página de películas y recomendaciones!");
+-
 
 function preguntaInicial(){
     let preguntaGenero = parseInt(prompt("Qué género desea ver hoy?\n1- Terror\n2- Ciencia ficción\n3- Romance\n4- Comedia\n5- Fantasía."))
