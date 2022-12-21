@@ -1,5 +1,5 @@
 
-# JavaScriptPractice
+# JavaScriptPractice:lady_beetle:
 
 Estas son mis practicas de JavaScript.
 
